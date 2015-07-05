@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DSCPP_2.3.2_双链表_15.4.20", "DSCPP_2.3.2_双链表_15.4.20\DSCPP_2.3.2_双链表_15.4.20.vcxproj", "{E8FAAF8E-53E1-41F2-BBBC-B06D2BC5F359}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E8FAAF8E-53E1-41F2-BBBC-B06D2BC5F359}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E8FAAF8E-53E1-41F2-BBBC-B06D2BC5F359}.Debug|Win32.Build.0 = Debug|Win32
+		{E8FAAF8E-53E1-41F2-BBBC-B06D2BC5F359}.Release|Win32.ActiveCfg = Release|Win32
+		{E8FAAF8E-53E1-41F2-BBBC-B06D2BC5F359}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

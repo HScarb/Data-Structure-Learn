@@ -1,0 +1,11 @@
+﻿Build started 4/20/2015 4:23:35 PM.
+     1>Project "C:\Users\Scarb\Desktop\PGM\DSCPP_2.2.2_顺序表_15.4.20\DSCPP_2.2.2_顺序表_15.4.20\DSCPP_2.2.2_顺序表_15.4.20.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt SeqList.cpp
+         SeqList.cpp
+     1>c:\users\scarb\desktop\pgm\dscpp_2.2.2_顺序表_15.4.20\dscpp_2.2.2_顺序表_15.4.20\seqlist.cpp(20): error C2039: 'FindKth' : is not a member of 'SeqList<DT>'
+     1>Done Building Project "C:\Users\Scarb\Desktop\PGM\DSCPP_2.2.2_顺序表_15.4.20\DSCPP_2.2.2_顺序表_15.4.20\DSCPP_2.2.2_顺序表_15.4.20.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.29
